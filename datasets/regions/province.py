@@ -2,7 +2,7 @@ import pandas as pd
 
 df_community_and_provice = pd.DataFrame(
     {
-        "CODAUTO": [
+        "CommunityCode": [
             1,
             1,
             1,
@@ -57,7 +57,7 @@ df_community_and_provice = pd.DataFrame(
             19
         ],
 
-        "AUTONOMOUSCOMMUNITY": [
+        "Community": [
             "Andalucia",
             "Andalucia",
             "Andalucia",
@@ -112,7 +112,7 @@ df_community_and_provice = pd.DataFrame(
             "Melilla"
         ],
 
-        "CPRO": [
+        "ProvinceCode": [
             4,
             11,
             14,
@@ -167,7 +167,7 @@ df_community_and_provice = pd.DataFrame(
             52
         ],
 
-        "PROVINCE": [
+        "Province": [
             "Almeria",
             "Cadiz",
             "Cordoba",

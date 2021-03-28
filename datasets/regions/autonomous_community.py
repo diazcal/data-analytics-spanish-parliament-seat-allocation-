@@ -2,7 +2,7 @@ import pandas as pd
 
 df_autonomous_community = pd.DataFrame(
     {
-        "AUTONOMOUSCOM": [
+        "Community": [
             "Andalucia",
             "Aragon",
             "Asturias",
